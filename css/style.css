@@ -68,5 +68,6 @@ body{
     .container{
         flex-direction: column;
         gap:20px;
+        padding: 40px 0;
     }
 }
