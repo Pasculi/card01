@@ -60,7 +60,7 @@ body{
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 
 }
-.card__btn--white{
+.card:nth-child(even) .card__btn{
     background:#fff;
     color:#25293C;
 }
